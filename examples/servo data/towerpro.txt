@@ -1,0 +1,22 @@
+//-- Main dimensions:
+width = 12.7;
+length = 22.7;
+height = 27;
+
+//-- Leg dimensions:
+leg_h = 15.7;
+leg_x = 12;
+leg_y = 5;
+leg_z = 2.5;
+
+//-- Leg holes
+num_holes = 2;
+hole_r = 1.1;
+hole_x = 0;
+hole_y = 2.5;
+
+//-- Axis dimensions:
+axis_h = 2.5;
+axis_r = 4.7/2.0;
+axis_y = 17;
+
