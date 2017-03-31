@@ -1,12 +1,12 @@
 //-- Main dimensions:
-width = 20.5;
-length = 40.5;
+width = 40.5;
+length = 20.5;
 height = 37.7;
 
 //-- Leg dimensions:
 leg_h = 26.6;
-leg_x = 7.5;
-leg_y = 20;
+leg_x = 20;
+leg_y = 7.5;
 leg_z = 4;
 
 //-- Leg holes
