@@ -74,11 +74,11 @@ body {
     o-background-size: cover !important;
     background-size: cover !important;
     color: #fff;
-    font-size: 1.716em;
+    font-size: 2em;
 }
 
 .remark-slide-content h1 {
-    font-size: 3em;
+    font-size: 2.432em;
 }
 
 .remark-slide-content h2 {
@@ -184,7 +184,7 @@ body {
 
 /* Code Blocks
 -------------------------------------------------- */
-.remark-code, 
+.remark-code,
 .remark-inline-code {
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
     font-size: 24px;
